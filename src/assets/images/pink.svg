@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.5" height="17.5" viewBox="0 0 17.5 17.5">
+  <g id="Oval" transform="translate(0.75 -7.25)">
+    <circle id="Oval-2" data-name="Oval" cx="8" cy="8" r="8" transform="translate(0 8)" fill="#fa4a84" stroke="#eeeff7" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Oval-3" data-name="Oval" transform="translate(0 8)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1">
+      <circle cx="8" cy="8" r="8" stroke="none"/>
+      <circle cx="8" cy="8" r="7.5" fill="none"/>
+    </g>
+  </g>
+</svg>
